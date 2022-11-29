@@ -183,7 +183,7 @@ def fight(mob, damage):
 TICK = 0
 HP = 3
 point = Point(0, HEIGHT)
-money = 400
+money = 100
 mas_for_venue = []  # массив для места встречи пули и моба
 mas_coordinate_mobs = create_mas_position(point)
 bullets = []  # массив пуль
